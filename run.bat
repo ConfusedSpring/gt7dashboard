@@ -1,6 +1,6 @@
 @echo off
 
-set GT7_PLAYSTATION_IP=<EDIT ME CONSOLE IP ADDRESS>
+set GT7_PLAYSTATION_IP=<0A68B612-C111-47EC-B833-FEBAC6B02A59>
 
 pip3 install -r requirements.txt
 
